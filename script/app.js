@@ -1,5 +1,5 @@
 function buscarCarros() {
-    window.location.href = "buscaDeCarros.html";
+    window.location.href = "html/buscaDeCarros.html";
 }
 
 function pesquisar(){
@@ -50,7 +50,7 @@ function pesquisar(){
 
 
 function buscarMotos() {
-    window.location.href = "buscaDeMotos.html";
+    window.location.href = "html/buscaDeMotos.html";
 }
 
 function PesquisarMoto(){
